@@ -247,6 +247,29 @@ body {
   text-decoration-thickness: 2px;
 }
 
+.contact-block {
+  margin-top: 0.9rem;
+  border-top: 1px solid var(--line);
+  padding-top: 0.8rem;
+}
+
+.contact-block h3 {
+  margin: 0 0 0.35rem;
+}
+
+.contact-block p {
+  margin: 0.15rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.contact-block a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration-thickness: 2px;
+}
+
 @media (max-width: 1024px) {
   .content-grid {
     grid-template-columns: 1fr;

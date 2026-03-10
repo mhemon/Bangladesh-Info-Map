@@ -715,7 +715,7 @@ function App() {
               : datasetMode === 'internet'
                 ? 'Live internet district stats only. Missing live values are shown as N/A.'
                 : datasetMode === 'census'
-                  ? 'Using local census district stats from your JSON file.'
+                  ? 'Using verified census district statistics.'
                   : 'Live data unavailable. Metrics remain N/A until internet data is reachable.'}
           </p>
 
@@ -749,6 +749,12 @@ function App() {
           <section className="source-block" aria-label="Data source">
             <h3>Source</h3>
             <p>{sourceText}</p>
+          </section>
+
+          <section className="contact-block" aria-label="Contact">
+            <h3>Contact</h3>
+            <p>Made with love for Bangladesh map lovers.</p>
+            <p>Want to connect? Email: mhemon02 [at] gmail.com</p>
           </section>
 
         </aside>
