@@ -1,0 +1,10 @@
+{
+  "name": "Bangladesh Info Map",
+  "short_name": "BD Info Map",
+  "description": "Interactive Bangladesh map with district and division insights.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fbfd",
+  "theme_color": "#0b6e4f",
+  "icons": []
+}
