@@ -1,68 +1,48 @@
-# BD Maps
+# Bangladesh Info Map
 
-React project scaffolded with Vite.
+Bangladesh Info Map is an interactive web app for exploring Bangladesh through a clickable map of divisions and districts.
 
-## Run
+The project combines map boundaries with real-world statistics so users can quickly view and compare regional information.
 
-Use Command Prompt or PowerShell with command shims:
+## What You Can Do
+
+- View Bangladesh at country, division, and district levels.
+- Click divisions to zoom in and explore districts.
+- Click districts to see local metrics.
+- Check key stats such as population, area, density, literacy rate, and growth rate.
+- Use map-based boundary area for geographic context.
+
+## Project Highlights
+
+- Built with React + Vite.
+- Interactive SVG map rendering.
+- Local census dataset support.
+- Optional live API enrichment for additional data.
+- Fallback-safe display (`N/A`) for missing values.
+
+## Tech Stack
+
+- React
+- Vite
+- d3-geo
+- JavaScript (ESM)
+
+## Local Development
 
 ```powershell
-npm.cmd install
-npm.cmd run dev
+npm install
+npm run dev
 ```
 
-## Build
+## Build For Production
 
 ```powershell
-npm.cmd run build
-npm.cmd run preview
-```
-
-## Publish To GitHub
-
-If `git` is not installed yet, install **Git for Windows** first:
-
-1. Download from https://git-scm.com/download/win
-2. Re-open terminal after installation.
-
-Then run:
-
-```powershell
-cd "d:\Test\BD Maps"
-git init
-git add .
-git commit -m "Initial commit: Bangladesh Info Map"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
-git push -u origin main
-```
-
-## Deploy To Vercel
-
-### Option A: Vercel Dashboard (easiest)
-
-1. Push your repo to GitHub.
-2. Go to https://vercel.com/new
-3. Import your GitHub repository.
-4. Framework preset: `Vite` (auto-detected)
-5. Build command: `npm run build`
-6. Output directory: `dist`
-7. Click Deploy.
-
-### Option B: Vercel CLI
-
-```powershell
-npm.cmd install -g vercel
-cd "d:\Test\BD Maps"
-vercel
-vercel --prod
+npm run build
 ```
 
 ## Notes
 
-- This app reads local data files from `public/data` and can also fetch live API data via the proxy server.
-- For reliable live API mode during development, run proxy in a separate terminal:
+- Main data files are in `public/data/`.
+- The app is designed to stay usable even when some live data fields are unavailable.
 
-```powershell
-npm.cmd run dev:proxy
-```
+
