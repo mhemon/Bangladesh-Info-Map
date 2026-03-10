@@ -1,0 +1,518 @@
+{
+  "generatedAt": "2026-03-09T23:28:23.849Z",
+  "count": 64,
+  "districts": [
+    {
+      "id": 1,
+      "district": "Bagerhat",
+      "population": 2794317,
+      "areaKm2": 537,
+      "literacyRate": 70,
+      "growthRate": 2
+    },
+    {
+      "id": 2,
+      "district": "Bandarban",
+      "population": 540354,
+      "areaKm2": 1374,
+      "literacyRate": 52,
+      "growthRate": 1.7
+    },
+    {
+      "id": 3,
+      "district": "Barguna",
+      "population": 2184717,
+      "areaKm2": 937,
+      "literacyRate": 70,
+      "growthRate": 2
+    },
+    {
+      "id": 4,
+      "district": "Barisal",
+      "population": 2241985,
+      "areaKm2": 1005,
+      "literacyRate": 53,
+      "growthRate": 2.4
+    },
+    {
+      "id": 5,
+      "district": "Bhola",
+      "population": 1584823,
+      "areaKm2": 1843,
+      "literacyRate": 61,
+      "growthRate": 1.4
+    },
+    {
+      "id": 6,
+      "district": "Bogra",
+      "population": 1785858,
+      "areaKm2": 478,
+      "literacyRate": 81,
+      "growthRate": 2.5
+    },
+    {
+      "id": 7,
+      "district": "Brahamanbaria",
+      "population": 1884852,
+      "areaKm2": 872,
+      "literacyRate": 85,
+      "growthRate": 1.1
+    },
+    {
+      "id": 8,
+      "district": "Chandpur",
+      "population": 2323842,
+      "areaKm2": 262,
+      "literacyRate": 55,
+      "growthRate": 1.7
+    },
+    {
+      "id": 9,
+      "district": "Chittagong",
+      "population": 1101349,
+      "areaKm2": 369,
+      "literacyRate": 82,
+      "growthRate": 2
+    },
+    {
+      "id": 10,
+      "district": "Chuadanga",
+      "population": 2603187,
+      "areaKm2": 1407,
+      "literacyRate": 65,
+      "growthRate": 1.8
+    },
+    {
+      "id": 11,
+      "district": "Comilla",
+      "population": 729778,
+      "areaKm2": 1998,
+      "literacyRate": 71,
+      "growthRate": 0.9
+    },
+    {
+      "id": 12,
+      "district": "Cox's Bazar",
+      "population": 2506077,
+      "areaKm2": 2097,
+      "literacyRate": 80,
+      "growthRate": 1.2
+    },
+    {
+      "id": 13,
+      "district": "Dhaka",
+      "population": 618380,
+      "areaKm2": 600,
+      "literacyRate": 48,
+      "growthRate": 1.9
+    },
+    {
+      "id": 14,
+      "district": "Dinajpur",
+      "population": 2822498,
+      "areaKm2": 1918,
+      "literacyRate": 86,
+      "growthRate": 0.9
+    },
+    {
+      "id": 15,
+      "district": "Faridpur",
+      "population": 1507042,
+      "areaKm2": 1462,
+      "literacyRate": 60,
+      "growthRate": 2.5
+    },
+    {
+      "id": 16,
+      "district": "Feni",
+      "population": 470593,
+      "areaKm2": 413,
+      "literacyRate": 66,
+      "growthRate": 1.6
+    },
+    {
+      "id": 17,
+      "district": "Gaibandha",
+      "population": 2876182,
+      "areaKm2": 1402,
+      "literacyRate": 85,
+      "growthRate": 2.9
+    },
+    {
+      "id": 18,
+      "district": "Gazipur",
+      "population": 979005,
+      "areaKm2": 1425,
+      "literacyRate": 88,
+      "growthRate": 2
+    },
+    {
+      "id": 19,
+      "district": "Gopalganj",
+      "population": 2093922,
+      "areaKm2": 1142,
+      "literacyRate": 60,
+      "growthRate": 2.5
+    },
+    {
+      "id": 20,
+      "district": "Habiganj",
+      "population": 2336029,
+      "areaKm2": 1449,
+      "literacyRate": 67,
+      "growthRate": 2
+    },
+    {
+      "id": 21,
+      "district": "Jamalpur",
+      "population": 1885491,
+      "areaKm2": 1511,
+      "literacyRate": 79,
+      "growthRate": 2.6
+    },
+    {
+      "id": 22,
+      "district": "Jessore",
+      "population": 2638848,
+      "areaKm2": 868,
+      "literacyRate": 51,
+      "growthRate": 0.7
+    },
+    {
+      "id": 23,
+      "district": "Jhalokati",
+      "population": 1684618,
+      "areaKm2": 438,
+      "literacyRate": 86,
+      "growthRate": 0.9
+    },
+    {
+      "id": 24,
+      "district": "Jhenaidah",
+      "population": 1003765,
+      "areaKm2": 1985,
+      "literacyRate": 58,
+      "growthRate": 2
+    },
+    {
+      "id": 25,
+      "district": "Joypurhat",
+      "population": 1179355,
+      "areaKm2": 1175,
+      "literacyRate": 53,
+      "growthRate": 1.8
+    },
+    {
+      "id": 26,
+      "district": "Khagrachhari",
+      "population": 1852174,
+      "areaKm2": 594,
+      "literacyRate": 57,
+      "growthRate": 1.3
+    },
+    {
+      "id": 27,
+      "district": "Khulna",
+      "population": 1003822,
+      "areaKm2": 1842,
+      "literacyRate": 80,
+      "growthRate": 2.1
+    },
+    {
+      "id": 28,
+      "district": "Kishoreganj",
+      "population": 2191934,
+      "areaKm2": 1554,
+      "literacyRate": 82,
+      "growthRate": 2.9
+    },
+    {
+      "id": 29,
+      "district": "Kurigram",
+      "population": 1519231,
+      "areaKm2": 1251,
+      "literacyRate": 59,
+      "growthRate": 3
+    },
+    {
+      "id": 30,
+      "district": "Kushtia",
+      "population": 1318470,
+      "areaKm2": 890,
+      "literacyRate": 63,
+      "growthRate": 1.3
+    },
+    {
+      "id": 31,
+      "district": "Lakshmipur",
+      "population": 2269357,
+      "areaKm2": 977,
+      "literacyRate": 65,
+      "growthRate": 1.2
+    },
+    {
+      "id": 32,
+      "district": "Lalmonirhat",
+      "population": 656566,
+      "areaKm2": 1986,
+      "literacyRate": 64,
+      "growthRate": 2.9
+    },
+    {
+      "id": 33,
+      "district": "Madaripur",
+      "population": 233886,
+      "areaKm2": 1706,
+      "literacyRate": 89,
+      "growthRate": 2.1
+    },
+    {
+      "id": 34,
+      "district": "Magura",
+      "population": 989176,
+      "areaKm2": 596,
+      "literacyRate": 59,
+      "growthRate": 1.5
+    },
+    {
+      "id": 35,
+      "district": "Manikganj",
+      "population": 1263147,
+      "areaKm2": 1367,
+      "literacyRate": 80,
+      "growthRate": 1.8
+    },
+    {
+      "id": 36,
+      "district": "Maulvibazar",
+      "population": 732807,
+      "areaKm2": 627,
+      "literacyRate": 65,
+      "growthRate": 3
+    },
+    {
+      "id": 37,
+      "district": "Meherpur",
+      "population": 723703,
+      "areaKm2": 1523,
+      "literacyRate": 56,
+      "growthRate": 3
+    },
+    {
+      "id": 38,
+      "district": "Munshiganj",
+      "population": 1700363,
+      "areaKm2": 1383,
+      "literacyRate": 61,
+      "growthRate": 2.6
+    },
+    {
+      "id": 39,
+      "district": "Mymensingh",
+      "population": 2339094,
+      "areaKm2": 1914,
+      "literacyRate": 82,
+      "growthRate": 2.9
+    },
+    {
+      "id": 40,
+      "district": "Naogaon",
+      "population": 1504558,
+      "areaKm2": 1778,
+      "literacyRate": 56,
+      "growthRate": 2.1
+    },
+    {
+      "id": 41,
+      "district": "Narail",
+      "population": 1926540,
+      "areaKm2": 1360,
+      "literacyRate": 83,
+      "growthRate": 2.7
+    },
+    {
+      "id": 42,
+      "district": "Narayanganj",
+      "population": 448243,
+      "areaKm2": 2063,
+      "literacyRate": 76,
+      "growthRate": 2.6
+    },
+    {
+      "id": 43,
+      "district": "Narsingdi",
+      "population": 1281868,
+      "areaKm2": 1488,
+      "literacyRate": 76,
+      "growthRate": 1.1
+    },
+    {
+      "id": 44,
+      "district": "Natore",
+      "population": 1999848,
+      "areaKm2": 2068,
+      "literacyRate": 86,
+      "growthRate": 1.5
+    },
+    {
+      "id": 45,
+      "district": "Nawabganj",
+      "population": 2629620,
+      "areaKm2": 840,
+      "literacyRate": 68,
+      "growthRate": 2.7
+    },
+    {
+      "id": 46,
+      "district": "Netrakona",
+      "population": 1097276,
+      "areaKm2": 2296,
+      "literacyRate": 54,
+      "growthRate": 1.9
+    },
+    {
+      "id": 47,
+      "district": "Nilphamari",
+      "population": 1597514,
+      "areaKm2": 2134,
+      "literacyRate": 67,
+      "growthRate": 1.7
+    },
+    {
+      "id": 48,
+      "district": "Noakhali",
+      "population": 2493416,
+      "areaKm2": 236,
+      "literacyRate": 74,
+      "growthRate": 1.5
+    },
+    {
+      "id": 49,
+      "district": "Pabna",
+      "population": 293149,
+      "areaKm2": 769,
+      "literacyRate": 72,
+      "growthRate": 2.8
+    },
+    {
+      "id": 50,
+      "district": "Panchagarh",
+      "population": 2165686,
+      "areaKm2": 306,
+      "literacyRate": 49,
+      "growthRate": 2.9
+    },
+    {
+      "id": 51,
+      "district": "Patuakhali",
+      "population": 2750937,
+      "areaKm2": 757,
+      "literacyRate": 90,
+      "growthRate": 1.6
+    },
+    {
+      "id": 52,
+      "district": "Pirojpur",
+      "population": 2923232,
+      "areaKm2": 1252,
+      "literacyRate": 85,
+      "growthRate": 2.3
+    },
+    {
+      "id": 53,
+      "district": "Rajbari",
+      "population": 2185514,
+      "areaKm2": 934,
+      "literacyRate": 92,
+      "growthRate": 0.9
+    },
+    {
+      "id": 54,
+      "district": "Rajshahi",
+      "population": 1900921,
+      "areaKm2": 1741,
+      "literacyRate": 54,
+      "growthRate": 1.6
+    },
+    {
+      "id": 55,
+      "district": "Rangamati",
+      "population": 2578139,
+      "areaKm2": 359,
+      "literacyRate": 82,
+      "growthRate": 2.6
+    },
+    {
+      "id": 56,
+      "district": "Rangpur",
+      "population": 443070,
+      "areaKm2": 1890,
+      "literacyRate": 68,
+      "growthRate": 2.1
+    },
+    {
+      "id": 57,
+      "district": "Satkhira",
+      "population": 2022588,
+      "areaKm2": 408,
+      "literacyRate": 61,
+      "growthRate": 1.1
+    },
+    {
+      "id": 58,
+      "district": "Shariatpur",
+      "population": 1132222,
+      "areaKm2": 1442,
+      "literacyRate": 65,
+      "growthRate": 2.1
+    },
+    {
+      "id": 59,
+      "district": "Sherpur",
+      "population": 2366820,
+      "areaKm2": 640,
+      "literacyRate": 48,
+      "growthRate": 1.9
+    },
+    {
+      "id": 60,
+      "district": "Sirajganj",
+      "population": 1709748,
+      "areaKm2": 1968,
+      "literacyRate": 76,
+      "growthRate": 1.1
+    },
+    {
+      "id": 61,
+      "district": "Sunamganj",
+      "population": 720423,
+      "areaKm2": 2043,
+      "literacyRate": 71,
+      "growthRate": 3
+    },
+    {
+      "id": 62,
+      "district": "Sylhet",
+      "population": 2097368,
+      "areaKm2": 1188,
+      "literacyRate": 56,
+      "growthRate": 1.5
+    },
+    {
+      "id": 63,
+      "district": "Tangail",
+      "population": 235639,
+      "areaKm2": 1459,
+      "literacyRate": 82,
+      "growthRate": 1.4
+    },
+    {
+      "id": 64,
+      "district": "Thakurgaon",
+      "population": 1275323,
+      "areaKm2": 743,
+      "literacyRate": 91,
+      "growthRate": 2.6
+    }
+  ]
+}

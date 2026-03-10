@@ -1,0 +1,639 @@
+{
+  "generatedAt": "2026-03-10T00:22:09.692Z",
+  "source": "Wikidata search + entity claims (P1082 population, P2046 area)",
+  "sourceUrl": "https://www.wikidata.org/",
+  "count": 64,
+  "missingDistricts": [
+    "Chapai Nawabganj",
+    "Jashore",
+    "Jhenaidah",
+    "Kurigram",
+    "Kushtia",
+    "Lalmonirhat",
+    "Madaripur",
+    "Magura",
+    "Manikganj",
+    "Meherpur",
+    "Narail",
+    "Natore",
+    "Rajshahi",
+    "Rangpur",
+    "Shariatpur"
+  ],
+  "unresolvedDistricts": [
+    "Jhalokati",
+    "Joypurhat",
+    "Khagrachhari",
+    "Khulna",
+    "Kishoreganj",
+    "Lakshmipur",
+    "Moulvibazar",
+    "Munshiganj",
+    "Mymensingh",
+    "Naogaon",
+    "Narayanganj",
+    "Narsingdi",
+    "Netrokona",
+    "Nilphamari",
+    "Noakhali",
+    "Pabna",
+    "Panchagarh",
+    "Patuakhali",
+    "Pirojpur",
+    "Rajbari",
+    "Rangamati",
+    "Satkhira",
+    "Sherpur",
+    "Sirajganj",
+    "Sunamganj",
+    "Sylhet",
+    "Tangail",
+    "Thakurgaon"
+  ],
+  "districts": [
+    {
+      "district": "Bagerhat",
+      "population": 1613076,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Bagerhat District",
+      "_entityId": "Q2344861"
+    },
+    {
+      "district": "Bandarban",
+      "population": 481106,
+      "areaKm2": 4479.02,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 107.41,
+      "_matchedBy": "search:Bandarban District",
+      "_entityId": "Q806273"
+    },
+    {
+      "district": "Barguna",
+      "population": 1010531,
+      "areaKm2": 452526,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 2.23,
+      "_matchedBy": "search:Barguna District",
+      "_entityId": "Q808172"
+    },
+    {
+      "district": "Barishal",
+      "population": 2570446,
+      "areaKm2": 688070,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 3.74,
+      "_matchedBy": "search:Barishal District",
+      "_entityId": "Q1763301"
+    },
+    {
+      "district": "Bhola",
+      "population": 1932518,
+      "areaKm2": 841017,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 2.3,
+      "_matchedBy": "search:Bhola District",
+      "_entityId": "Q855042"
+    },
+    {
+      "district": "Bogra",
+      "population": 3734297,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Bogra District",
+      "_entityId": "Q2039066"
+    },
+    {
+      "district": "Brahmanbaria",
+      "population": 3306563,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Brahmanbaria District",
+      "_entityId": "Q897330"
+    },
+    {
+      "district": "Chandpur",
+      "population": 2635748,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Chandpur District",
+      "_entityId": "Q1429697"
+    },
+    {
+      "district": "Chapai Nawabganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Chapai Nawabganj District",
+      "_entityId": "Q110677147"
+    },
+    {
+      "district": "Chattogram",
+      "population": 9169465,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Chattogram District",
+      "_entityId": "Q1074991"
+    },
+    {
+      "district": "Chuadanga",
+      "population": 1234054,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Chuadanga District",
+      "_entityId": "Q2094570"
+    },
+    {
+      "district": "Cox's Bazar",
+      "population": 2823268,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Cox's Bazar District",
+      "_entityId": "Q1122278"
+    },
+    {
+      "district": "Cumilla",
+      "population": 6212216,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Cumilla District",
+      "_entityId": "Q1480778"
+    },
+    {
+      "district": "Dhaka",
+      "population": 14734701,
+      "areaKm2": 1463.6,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 10067.44,
+      "_matchedBy": "search:Dhaka District",
+      "_entityId": "Q1850485"
+    },
+    {
+      "district": "Dinajpur",
+      "population": 3315236,
+      "areaKm2": 3438,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 964.29,
+      "_matchedBy": "search:Dinajpur District, Bangladesh",
+      "_entityId": "Q1985120"
+    },
+    {
+      "district": "Faridpur",
+      "population": 2162879,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Faridpur District",
+      "_entityId": "Q2093552"
+    },
+    {
+      "district": "Feni",
+      "population": 1648896,
+      "areaKm2": 928.34,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 1776.18,
+      "_matchedBy": "search:Feni District",
+      "_entityId": "Q1404741"
+    },
+    {
+      "district": "Gaibandha",
+      "population": 2562233,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Gaibandha District",
+      "_entityId": "Q2344595"
+    },
+    {
+      "district": "Gazipur",
+      "population": 5263450,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Gazipur District",
+      "_entityId": "Q2094101"
+    },
+    {
+      "district": "Gopalganj",
+      "population": 1295057,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Gopalganj District",
+      "_entityId": "Q1537813"
+    },
+    {
+      "district": "Habiganj",
+      "population": 2358886,
+      "areaKm2": 651516,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": 3.62,
+      "_matchedBy": "search:Habiganj District",
+      "_entityId": "Q1438974"
+    },
+    {
+      "district": "Jamalpur",
+      "population": 2499738,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Jamalpur District",
+      "_entityId": "Q2039306"
+    },
+    {
+      "district": "Jashore",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Jashore District",
+      "_entityId": "Q1862981"
+    },
+    {
+      "district": "Jhalokati",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Jhenaidah",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Jhenaidah District",
+      "_entityId": "Q2188750"
+    },
+    {
+      "district": "Joypurhat",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Khagrachhari",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Khulna",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Kishoreganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Kurigram",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Kurigram",
+      "_entityId": "Q2348751"
+    },
+    {
+      "district": "Kushtia",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Kushtia District",
+      "_entityId": "Q956895"
+    },
+    {
+      "district": "Lakshmipur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Lalmonirhat",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Lalmonirhat",
+      "_entityId": "Q2373734"
+    },
+    {
+      "district": "Madaripur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Madaripur District",
+      "_entityId": "Q928836"
+    },
+    {
+      "district": "Magura",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Magura District",
+      "_entityId": "Q2039085"
+    },
+    {
+      "district": "Manikganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Manikganj District",
+      "_entityId": "Q2024719"
+    },
+    {
+      "district": "Meherpur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Meherpur District",
+      "_entityId": "Q1474206"
+    },
+    {
+      "district": "Moulvibazar",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Munshiganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Mymensingh",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Naogaon",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Narail",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Narail",
+      "_entityId": "Q1550260"
+    },
+    {
+      "district": "Narayanganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Narsingdi",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Natore",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Natore District",
+      "_entityId": "Q2093361"
+    },
+    {
+      "district": "Netrokona",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Nilphamari",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Noakhali",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Pabna",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Panchagarh",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Patuakhali",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Pirojpur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Rajbari",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Rajshahi",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Rajshahi District",
+      "_entityId": "Q2344697"
+    },
+    {
+      "district": "Rangamati",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Rangpur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Rangpur",
+      "_entityId": "Q994514"
+    },
+    {
+      "district": "Satkhira",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Shariatpur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null,
+      "_matchedBy": "search:Shariatpur",
+      "_entityId": "Q253007"
+    },
+    {
+      "district": "Sherpur",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Sirajganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Sunamganj",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Sylhet",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Tangail",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    },
+    {
+      "district": "Thakurgaon",
+      "population": null,
+      "areaKm2": null,
+      "literacyRate": null,
+      "growthRate": null,
+      "density": null
+    }
+  ]
+}
