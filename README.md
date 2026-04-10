@@ -4,6 +4,10 @@ Bangladesh Info Map is an interactive web app for exploring Bangladesh through a
 
 The project combines map boundaries with real-world statistics so users can quickly view and compare regional information.
 
+## Live Link
+
+https://bangladesh-info-map.vercel.app/
+
 ## What You Can Do
 
 - View Bangladesh at country, division, and district levels.
